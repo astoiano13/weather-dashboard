@@ -1,0 +1,19 @@
+.display-4 {
+    text-align: center;
+}
+
+#searchBtn {
+    border-radius: 20%;
+    background-color: blue;
+    color: white;
+};
+  
+.fas {
+    font-size: 20px;
+    transition: all .3s ease-in-out;
+};
+
+main {
+    margin: 20%;
+    padding: 20%;
+};
