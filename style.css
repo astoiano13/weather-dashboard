@@ -1,6 +1,10 @@
-.display-4 {
+header {
+    padding: 0.5%;
+    font-size: 40px;
     text-align: center;
-}
+    color: white;
+    background-color: grey;
+};
 
 #searchBtn {
     border-radius: 20%;
@@ -17,3 +21,4 @@ main {
     margin: 20%;
     padding: 20%;
 };
+
