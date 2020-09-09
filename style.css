@@ -2,3 +2,12 @@
     margin-top: 15px;
     margin-bottom: 15px;
 };
+
+#searchbutton {
+    margin-bottom: 30px;
+};
+
+#rightcolumn {
+    border-radius: 10px;
+    margin-left: 15px;
+};
